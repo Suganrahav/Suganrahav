@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suganrahav
-- 👀 I’m interested in Web development
+- 👀 I’m interested in IOT
 - 🌱 I’m currently learning Web development and python
 - 💞️ I’m looking to collaborate on Your projects
 - 📫 How to reach me : my number is 7868865060
